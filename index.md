@@ -31,4 +31,3 @@ You can contact me on :
 Thanks for taking out the time and visiting the website :)
 
 psst, I now know how this site works though :p
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
