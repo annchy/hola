@@ -1,28 +1,34 @@
-##         Welcome to my Website
+### Welcome to my Website
 
-You can use the [editor on GitHub](https://github.com/anshulchaudhary0677/hola/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://avatars0.githubusercontent.com/u/54776396?s=400&u=cdfe242d3364e9bfaedbd123e9fa8689b010a62d&v=4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi there!!! My name is **Anshul Chaudhary**, an undergraduate student from Kalinga Institute of Industrial Technology, Bhubaneswar (_KIIT_).
+
+I love to learn something new everyday. I am a **Machine Learning Enthusiast** & **Web Developer** with intermediate skills, tying to find my way into industrial world.
 
 ### About this Site
 
-this website is made using [jekyll](https://jekyllrb.com/) and hosted by [github](https://github.com/)
-You can see the code for the website [here](https://github.com/anshulchaudhary0677/hola)
+This website is made using [jekyll](https://jekyllrb.com/) (basically i was just trying how it works) and hosted by [github](https://github.com/)
+`You can see the code for the website [here](https://github.com/anshulchaudhary0677/hola)`
 
-### The ways this theme can be used are
-# E commerse Webstite
-# Personal portfolio Website
-### and many more
 
-- Bulleted
-- List
+### About Me
+- 🔭 I’m currently working on multiple computer vision
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on HTML, CSS, and Computer Vision problem
+- 🤔 I’m looking for help with learning Deep Learning.
+- 💬 Ask me about anything
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Sike You thought there must be any fun for me. JK, I love memes.
 
-1. Numbered
-2. List
+### Contact Me
+You can contact me on : 
+- [Gmail](mailto:anshulchoudhary2001@gmail.com)
+- [Github](https://github.com/anshulchaudhary0677)
+- [Linkedin](https://www.linkedin.com/in/anshul-chaudhary-2001/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+Thanks for taking out the time and visiting the website :)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
