@@ -1,6 +1,6 @@
 ### Welcome to my Website
 
-![Image](https://avatars0.githubusercontent.com/u/54776396?s=400&u=cdfe242d3364e9bfaedbd123e9fa8689b010a62d&v=4)
+![Image](https://github.com/anshulchaudhary0677/hola/blob/gh-pages/pic.png)
 
 Hi there!!! My name is **Anshul Chaudhary**, an undergraduate student from Kalinga Institute of Industrial Technology, Bhubaneswar (_KIIT_).
 
