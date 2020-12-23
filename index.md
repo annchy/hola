@@ -8,8 +8,9 @@ I love to learn something new everyday. I am a **Machine Learning Enthusiast** &
 
 ### About this Site
 
-This website is made using [jekyll](https://jekyllrb.com/) (basically i was just trying how it works) and hosted by [github](https://github.com/)
-`You can see the code for the website [here](https://github.com/anshulchaudhary0677/hola)`
+This website is made using [jekyll](https://jekyllrb.com/) (basically i was just trying how it works) and hosted by [github](https://github.com/).
+
+You can see the code for the website [here](https://github.com/anshulchaudhary0677/hola). `Fork this repo by clicking on the top left corner`
 
 
 ### About Me
