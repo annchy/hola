@@ -3,7 +3,7 @@
 
 Hi there!!! My name is **Anshul Chaudhary**, an undergraduate student from Kalinga Institute of Industrial Technology, Bhubaneswar (_KIIT_).
 
-I love to learn something new everyday. I am a **Machine Learning Enthusiast** & **Web Developer** with intermediate skills, tying to find my way into industrial world.
+I love to learn something new everyday. I am a **Machine Learning Enthusiast** & **Web Developer** with intermediate skills, trying to find my way into industrial world.
 
 ### About this Site
 
@@ -28,6 +28,6 @@ You can contact me on :
 - [Linkedin](https://www.linkedin.com/in/anshul-chaudhary-2001/)
 
 
-Thanks for taking out the time and visiting the website :)
+Thanks for taking out the time and visiting this website :)
 
 psst, I now know how this site works though :p
