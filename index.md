@@ -9,7 +9,7 @@ I love to learn something new everyday. I am a **Machine Learning Enthusiast** &
 
 This website is made using [jekyll](https://jekyllrb.com/) (basically i just wanted to know how it works) and hosted by [github](https://github.com/).
 
-You can see the code for the website [here](https://github.com/anshulchaudhary0677/hola/tree/gh-pages). 
+You can see the code for the website [here](https://github.com/annchy/hola/tree/gh-pages). 
 
 
 ### About Me
@@ -24,7 +24,7 @@ You can see the code for the website [here](https://github.com/anshulchaudhary06
 ### Contact Me
 You can contact me on : 
 - [Gmail](mailto:anshulchoudhary2001@gmail.com)
-- [Github](https://github.com/anshulchaudhary0677)
+- [Github](https://github.com/annchy)
 - [Linkedin](https://www.linkedin.com/in/anshul-chaudhary-2001/)
 
 
