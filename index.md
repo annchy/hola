@@ -24,7 +24,7 @@ You can see the code for the website [here](https://github.com/annchy/hola/tree/
 ### Contact Me
 You can contact me on : 
 - [Gmail](mailto:anshulchoudhary2001@gmail.com)
-- [Github](https://github.com/annchy)
+- [Github](https://github.com/anschy)
 - [Linkedin](https://www.linkedin.com/in/anshul-chaudhary-2001/)
 
 
