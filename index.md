@@ -18,11 +18,11 @@ You can see the code for the website [here](https://github.com/annchy/hola/tree/
 - 👯 I’m looking to collaborate on HTML, CSS, and Computer Vision problem
 - 🤔 I’m looking for help with learning Deep Learning.
 - 💬 Ask me about anything
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sike You thought there must be any fun for me. JK, I love memes.
 
 ### Contact Me
-You can contact me on : 
+You can contact me on :
+- [Website](https://anschy.github.io)
 - [Gmail](mailto:anshulchoudhary2001@gmail.com)
 - [Github](https://github.com/anschy)
 - [Linkedin](https://www.linkedin.com/in/anshul-chaudhary-2001/)
