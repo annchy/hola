@@ -7,7 +7,7 @@ I love to learn something new everyday. I am a **Machine Learning Enthusiast** &
 
 ### About this Site
 
-This website is made using [jekyll](https://jekyllrb.com/) (basically i just wanted to know how it works) and hosted by [github](https://github.com/).
+This website is made using [jekyll](https://jekyllrb.com/) (basically, i just wanted to know how jekyyl page from github works) and hosted by [github](https://github.com/).
 
 You can see the code for the website [here](https://github.com/annchy/hola/tree/gh-pages). 
 
